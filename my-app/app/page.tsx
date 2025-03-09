@@ -198,7 +198,7 @@ export default function Home() {
       <main className="flex-grow">
         <section className="relative h-[70vh]">
           <Image
-            src="https://www.nusuk.sa/_next/image?url=%2Fuploads%2Fmakkah_banner_new2_8764b46f6b.jpg&w=1920&q=75"
+            src="https://mj-ahmad.github.io/mja2025/img/tr00.png"
             alt="Umrah Packages"
             fill
             className="object-cover"
@@ -613,6 +613,25 @@ export default function Home() {
                 className="inline-block bg-green-600 text-white px-8 py-3 rounded-md font-medium hover:bg-green-700 transition-colors"
               >
                 Contact Us
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        <section className="py-16 bg-gray-50">
+          <div className="container mx-auto px-4">
+            <div className="max-w-4xl mx-auto text-center">
+              <h2 className="text-3xl font-bold mb-6">Your Comfort is Our Priority</h2>
+              <p className="text-lg text-gray-700 mb-8">
+                We understand the significance of your spiritual journey and are committed to providing exceptional
+                services that meet your needs and exceed your expectations. Our team is available 24/7 to assist you
+                throughout your pilgrimage.
+              </p>
+              <Link
+                href="/contact"
+                className="inline-block bg-green-600 text-white px-8 py-3 rounded-md font-medium hover:bg-green-700 transition-colors"
+              >
+                Contact Us for More Information
               </Link>
             </div>
           </div>

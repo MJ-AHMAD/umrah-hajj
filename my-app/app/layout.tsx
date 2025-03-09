@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Experience a spiritually fulfilling Umrah and Hajj journey with TRUSTED-ALLY's comprehensive packages and services.",
       icons: {
-    icon: "https://mj-ahmad.github.io/mja2025/img/icon.png",
+    icon: "https://mj-ahmad.github.io/mja2025/img/logo.png",
   },
 }
 

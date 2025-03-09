@@ -458,7 +458,7 @@ export default function FlightsPage() {
   const getAirlineLogo = (airline) => {
     switch (airline) {
       case "Biman Bangladesh Airlines":
-        return "/placeholder.svg?height=64&width=64"
+        return "https://mj-ahmad.github.io/mja2025/img/biman-logo.png"
       case "Saudia":
         return "/placeholder.svg?height=64&width=64"
       case "US-Bangla Airlines":
